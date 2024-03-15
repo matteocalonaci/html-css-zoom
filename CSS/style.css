@@ -12,17 +12,10 @@ body {
     background-color: lightgoldenrodyellow;
 }
 
-header {
-    height: 5%;
-    background-color: black;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-
-}
+header {}
 
 main {
-    height: 85%;
+    height: 90%;
     background-color: black;
 }
 
